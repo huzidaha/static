@@ -1,5 +1,5 @@
 var api = function (route) {
-  return 'http://huziketang.com/api/react-books' + route
+  return '/api/react-books' + route
 }
 
 var init = function () {
